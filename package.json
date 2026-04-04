@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@clerk/clerk-react": "^5.61.4",
+    "axios": "^1.14.0",
+    "react-router-dom": "^7.14.0",
+    "socket.io-client": "^4.8.3"
+  }
+}
